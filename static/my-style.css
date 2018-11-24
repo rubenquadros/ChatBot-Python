@@ -1,0 +1,31 @@
+.my-heading {
+    color: #FFFFFF;
+    text-align: center;
+}
+
+#messages {
+    margin-top: 100px;
+    margin-bottom: 150px;
+    overflow: auto;
+}
+
+#loading{
+    margin-top: 10px;
+}
+
+.chat-message {
+  padding: 6px;
+  border-radius: 3px;
+  margin-top: 10px;
+}
+
+.bot-message {
+    background: green;
+    color: white;
+}
+
+.human-message {
+    clear: both;
+    background: dodgerblue;
+    color: white;
+}
